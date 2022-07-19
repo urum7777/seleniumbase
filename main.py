@@ -1,5 +1,4 @@
 from seleniumbase import BaseCase
-import time
 
 class Test(BaseCase):
     def testing_page(self):
